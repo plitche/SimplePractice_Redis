@@ -14,6 +14,10 @@ import java.util.Optional;
 /**
  * author         : yskwon
  * date           : 2023-06-30
+ * title          :
+ * Level          :
+ * isSolved       :
+ * url            :
  * ===========================================================
  * DATE              AUTHOR             NOTE
  * -----------------------------------------------------------
